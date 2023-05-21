@@ -1,0 +1,28 @@
+/* Created on 19 Jan '22 */
+body {background-color: greenyellow;}
+
+table {margin: auto;
+       font-weight: bold;
+       font-family: Verdana, Calibri, sans-serif;
+       color: #FFFFFF;}
+
+.butts {border: 2px solid white;
+        background-color: greenyellow;
+        color: white;
+    
+        width: 67px;
+        height: 30px}
+.butts:hover {background-color: white;
+              color: greenyellow;
+              cursor: pointer}
+
+#main {border: 4px dashed #00d100;
+       background-color: white;
+       color: #00d100;
+
+       width: 375px;
+       height: 150px;
+       text-align: center;
+       padding-top: 100px;
+       padding-bottom: 60px;
+       font-size: 24pt;}
